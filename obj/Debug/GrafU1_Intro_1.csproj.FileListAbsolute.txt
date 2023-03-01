@@ -1,0 +1,10 @@
+C:\Users\ulise\source\repos\GrafU1_Intro_1\bin\Debug\GrafU1_Intro_1.exe.config
+C:\Users\ulise\source\repos\GrafU1_Intro_1\bin\Debug\GrafU1_Intro_1.exe
+C:\Users\ulise\source\repos\GrafU1_Intro_1\bin\Debug\GrafU1_Intro_1.pdb
+C:\Users\ulise\source\repos\GrafU1_Intro_1\obj\Debug\GrafU1_Intro_1.csproj.AssemblyReference.cache
+C:\Users\ulise\source\repos\GrafU1_Intro_1\obj\Debug\GrafU1_Intro_1.Form1.resources
+C:\Users\ulise\source\repos\GrafU1_Intro_1\obj\Debug\GrafU1_Intro_1.Properties.Resources.resources
+C:\Users\ulise\source\repos\GrafU1_Intro_1\obj\Debug\GrafU1_Intro_1.csproj.GenerateResource.cache
+C:\Users\ulise\source\repos\GrafU1_Intro_1\obj\Debug\GrafU1_Intro_1.csproj.CoreCompileInputs.cache
+C:\Users\ulise\source\repos\GrafU1_Intro_1\obj\Debug\GrafU1_Intro_1.exe
+C:\Users\ulise\source\repos\GrafU1_Intro_1\obj\Debug\GrafU1_Intro_1.pdb
